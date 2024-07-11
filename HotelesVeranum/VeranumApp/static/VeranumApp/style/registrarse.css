@@ -1,0 +1,44 @@
+.margenes-container{
+    margin-bottom: 5%;
+}
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.separacion{
+    margin-top: 100px;
+}
+
+
+.desactive{
+    display: none;
+}
+
+.activate{
+    display: visible;
+}
+
+.botonRegistrarse{
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background-color: rgb(27, 92, 136);
+    color: white;
+    
+}
+
+.botonRegistrarse:hover{
+    background-color: white;
+    color: rgb(27, 92, 136);
+    border-color: rgb(27, 92, 136);
+}
+
+.mensaje{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(82,134,55);
+}
+.cuadro_msg{
+    text-align: center;
+}

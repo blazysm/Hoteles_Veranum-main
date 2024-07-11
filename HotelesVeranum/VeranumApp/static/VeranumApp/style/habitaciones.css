@@ -1,0 +1,29 @@
+.mainClass{
+    background-color: white;
+}
+
+.imagen_habitacion{
+  min-height: 300px;
+}
+
+.habi{
+  text-align: center; 
+  margin-top: 2em;
+  margin-bottom: 2em;
+  color: rgb(16, 57, 85);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.habitacion{
+  background-color: rgb(245,246,250);
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+
+.campos_tarjeta{
+  color: rgb(16, 57, 85);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+}
