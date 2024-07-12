@@ -1,7 +1,7 @@
 # Hoteles_Veranum
-Proyecto para el ramo de ingeniería de software , en donde trabajamos un con cliente ficticio llamado hoteles veranum
+Proyecto para el ramo de ingeniería de software , en donde trabajamos con cliente ficticio llamado hoteles veranum
 
-Para usar el proyecto , se deberán instalar todo lo descrito en el documentos requirements.txt \
+Para usar el proyecto, se deberá instalar todo lo descrito en el documentos requirements.txt \
 
 Deberemos crear el usuario que se encontrará en la carpeta CreacionUsuarios_SQL/creacion_tablas.sql
 También ahí encontraremos la creación y el poblamiento de las tablas que encontraremos en CreacionUsuarios_SQL/creacion_usuarios.sql
